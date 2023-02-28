@@ -1,0 +1,48 @@
+* {
+margin: 20px;
+}
+
+h1 {
+text-shadow: 4px 4px 5px red;
+font-size: 35px;
+text-align: center;
+
+}
+
+body {
+background: yellowgreen
+}
+
+
+
+
+p{
+    text-indent:40px;
+    font-size: 30px;
+    font-family: cursive
+}
+
+div.r {
+    float:none; 
+}
+
+img.g {
+    width: 490px;
+    height: 450px;
+}
+
+img.f {
+    width:650px ;
+    height: 450px;
+}
+
+
+
+
+
+
+footer{
+text-align: center;
+color: black;
+font-size: 18px
+}
